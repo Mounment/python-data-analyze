@@ -7,3 +7,4 @@ OpenStreetMap.pdf 报告
 osm_source.txt 数据源
 schema.py XML节点格式
 shanghai.ipynb 主体代码
+shanghai.zip数据文件,解压
